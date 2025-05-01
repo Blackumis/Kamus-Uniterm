@@ -40,3 +40,7 @@ Route::get('/login', function () {
 Route::get('/register',function () {
     return view('register');
 });
+
+Route::get('/Istilah',function () {
+    return view('Istilah');
+});

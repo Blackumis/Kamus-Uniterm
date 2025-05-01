@@ -115,7 +115,7 @@
     <div class="links">
         <a href="/Glosarium">Glosarium</a>
         <a href="/AboutUs">About</a>
-        <a href="#">Contact</a>
+        <a href="/Istilah">Contact</a>
         <a href="/login"><img src="https://img.icons8.com/ios-filled/24/ffffff/user.png" alt="Profile"></a>
     </div>
 </nav>
